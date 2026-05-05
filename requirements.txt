@@ -3,7 +3,7 @@ tensorflow
 gTTS
 playsound
 numpy
-sklearn
+scikit-learn
 matplotlib
 os
 ModelCheckpoint
